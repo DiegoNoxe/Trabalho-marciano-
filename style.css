@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: rgba(0, 0, 0, 0.644);
+}
+
+div{
+    background-color: rgba(2, 22, 18, 0.781);
+    box-shadow: 1px 1px 1px rgba(43, 44, 42, 0.432);
+}
+
+div h1{
+    font-size: 4rem;
+    color: white;
+    text-align: center;
+}
+
+
+nav ul {
+    margin-top: 2rem;
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav li{
+    font-size: 1.5rem;
+    color: white;
+    display: inline;
+    margin-right: 20px;
+}
+
+a{
+    text-decoration: none;
+}
